@@ -1,0 +1,10 @@
+command: ["streamlit", "run", "app.py"]
+env:
+  - name: CATALOG
+    value: "milacron_platform"                   # <-- updated to sandbox
+  - name: SCHEMA
+    value: "transitgap"
+  - name: WAREHOUSE_HTTP_PATH
+    value: "/sql/1.0/warehouses/eb88b2e6f303756d"   # <-- Serverless Starter Warehouse
+  - name: GENIE_SPACE_ID
+    value: "01f1c49085e91075bcbb96b1e3ae44dc"                          # <-- paste Genie space id (from its URL); leave empty to disable the chat page

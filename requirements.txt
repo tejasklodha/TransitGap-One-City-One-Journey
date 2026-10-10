@@ -1,0 +1,8 @@
+streamlit>=1.35
+pandas
+plotly
+databricks-sql-connector
+databricks-sdk>=0.40
+fpdf2>=2.7
+numpy
+requests
