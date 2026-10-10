@@ -1,0 +1,979 @@
+route_id,agency_id,route_name,route_desc,route_type,data_origin,source
+AMC_1790,AMTS,101sh,P.D.P.U. Cross Road to Asarva Railway Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1791,AMTS,101sh,Asarva Railway Station to P.D.P.U. Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1798,AMTS,103,Bhakti Circle to Gujarat University (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1799,AMTS,103,Gujarat University to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1800,AMTS,103,Bhakti Circle to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1801,AMTS,103,Gujarat University to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1805,AMTS,103,Sarangpur to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1807,AMTS,105,Naroda Industrial Township( MuthiyaGam ) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1808,AMTS,105,Lal Darwaja to Naroda Industrial Township( MuthiyaGam ) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1811,AMTS,107,Sarangpur to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1814,AMTS,109,Amba Township Sector-5 (Trimandir) to G.E.B (Naroda) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1815,AMTS,109,G.E.B (Naroda) to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1816,AMTS,109,Amba Township Sector-5 (Trimandir) to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1817,AMTS,109,Chandkheda Gam to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1820,AMTS,109,Chandkheda Gam to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1821,AMTS,109,G.E.B (Naroda) to Chandkheda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1822,AMTS,109,Naroda to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1823,AMTS,109,Naroda to Chandkheda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1828,AMTS,111/2,Karai Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1829,AMTS,111/2,Lal Darwaja to Karai Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1834,AMTS,116,Dani Limda Gam to Civil Hospital (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1835,AMTS,116,Civil Hospital to Dani Limda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1838,AMTS,116,Dani Limda Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1847,AMTS,117,Meghaninagar to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1852,AMTS,117/1,Miroli Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1853,AMTS,117/1,Sarangpur to Miroli Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1854,AMTS,117/1,Sarangpur to Kamod Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1855,AMTS,117/1,Kamod Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1860,AMTS,12,Maninagar to Nenpur Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1861,AMTS,123,Sitarambapa Chowk (Gopal Chowk) to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1862,AMTS,123,Vasna to Sitarambapa Chowk (Gopal Chowk) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1865,AMTS,123,Lal Darwaja to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1866,AMTS,123,Lal Darwaja to Sitarambapa Chowk (Gopal Chowk) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1870,AMTS,123,Vasna to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1871,AMTS,123/1,Parshwanath Township to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1872,AMTS,123/1,Sarangpur to Parshwanath Township (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1873,AMTS,123sh,Sitarambapa Chowk (Gopal Chowk) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1874,AMTS,123sh,Lal Darwaja to Sitarambapa Chowk (Gopal Chowk) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1878,AMTS,123sh,Sitarambapa Chowk (Gopal Chowk) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1879,AMTS,124,Engg./B.Ed.College (Vahelal) to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1880,AMTS,124,Maninagar to Engg./B.Ed.College (Vahelal) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1881,AMTS,125,Karoli Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1882,AMTS,125,Lal Darwaja to Karoli Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1884,AMTS,125,Lal Darwaja to Vehlal Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1887,AMTS,125,Vehlal Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1893,AMTS,125/2,Dahegam-Bayad Circle to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1894,AMTS,125/2,Naroda to Dahegam-Bayad Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1895,AMTS,125sh,Vehlal Gam to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1896,AMTS,125sh,Naroda to Vehlal Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1897,AMTS,126,Sardarnagar to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1898,AMTS,126,Sarangpur to Sardarnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1899,AMTS,127,Bhakti Circle to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1900,AMTS,127,Sarangpur to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1901,AMTS,128,Naroda Industrial Township( MuthiyaGam ) to Nigam Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1902,AMTS,128,Nigam Society to Naroda Industrial Township( MuthiyaGam ) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1913,AMTS,128,Naroda Industrial Township( MuthiyaGam ) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1914,AMTS,128,Nigam Society to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1915,AMTS,128,Naroda to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1919,AMTS,128,Sarangpur to Naroda Industrial Township( MuthiyaGam ) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1929,AMTS,13/1,Ranip Gam to Prakash Vidhyalay (Isanpur) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1930,AMTS,13/1,Prakash Vidhyalay (Isanpur) to Ranip Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1932,AMTS,13/1,Lal Darwaja to Prakash Vidhyalay (Isanpur) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1933,AMTS,13/1,Lal Darwaja to Ranip Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1934,AMTS,13/1,Prakash Vidhyalay (Isanpur) to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1935,AMTS,13/1,Ranip Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1936,AMTS,13/1,Ranip Gam to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1938,AMTS,13/1,Vadaj to Ranip Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1945,AMTS,130/4,Nava Vadaj to Memco (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1947,AMTS,130sh,Lambha Gam to Naroda Industrial Township( MuthiyaGam ) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1948,AMTS,130sh,Naroda Industrial Township( MuthiyaGam ) to Lambha Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1958,AMTS,133,Anand Flats to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1959,AMTS,133,Lal Darwaja to Anand Flats (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1960,AMTS,135,Bhakti Circle to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1961,AMTS,135,Lal Darwaja to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1962,AMTS,135,Bhakti Circle to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1963,AMTS,135,Khodiyar Mandir (Nikol) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1964,AMTS,135,Lal Darwaja to Khodiyar Mandir (Nikol) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1965,AMTS,135,Pramukh Swaminagar (Bapunagar Tollnaka) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1966,AMTS,135,Pramukh Swaminagar (Bapunagar Tollnaka) to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1968,AMTS,135,Sarangpur to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1973,AMTS,136,Sattadhar Society to G.E.B (Naroda) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1974,AMTS,136,G.E.B (Naroda) to Sattadhar Society (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1987,AMTS,136,Sattadhar Society to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1988,AMTS,136,Sarangpur to Sattadhar Society (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1992,AMTS,137/1,Ramdev Masala to Asarva Railway Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1993,AMTS,137/1,Asarva Railway Station to Ramdev Masala (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1994,AMTS,137/1,Ramdev Masala to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_1997,AMTS,137/1,Vadaj to Ramdev Masala (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2003,AMTS,137sh,Ramdev Masala to Bapunagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2004,AMTS,137sh,Bapunagar to Ramdev Masala (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2020,AMTS,138,Gujarat University to Bapunagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2021,AMTS,138,Bapunagar to Gujarat University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2022,AMTS,138,Bapunagar to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2023,AMTS,138,Gujarat University to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2027,AMTS,138,Lal Darwaja to Bapunagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2038,AMTS,14,Nandej-Barejadi Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2039,AMTS,14,Lal Darwaja to Nandej-Barejadi Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2040,AMTS,14,Devdi Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2041,AMTS,14,Lal Darwaja to Devdi Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2042,AMTS,14,Lal Darwaja to Vatva Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2043,AMTS,14,Vatva Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2044,AMTS,14/1,Vatva Railway Station to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2045,AMTS,14/1,Lal Darwaja to Vatva Railway Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2047,AMTS,14/1,Isanpur to Vatva Railway Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2049,AMTS,14/1,Vatva Railway Station to Isanpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2050,AMTS,142,Gujarat University to Vastral Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2051,AMTS,142,Vastral Gam to Gujarat University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2056,AMTS,142sh,Lal Darwaja to Vastral Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2057,AMTS,142sh,Vastral Gam to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2061,AMTS,142sh,Sarangpur to Vastral Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2066,AMTS,143,Pasunj Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2067,AMTS,143,Sarangpur to Pasunj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2070,AMTS,143sh,Kubadthal Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2071,AMTS,143sh,Sarangpur to Kubadthal Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2074,AMTS,144,Gujarat University to Arbudanagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2075,AMTS,144,Arbudanagar to Gujarat University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2080,AMTS,144/1,Madhav Homes to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2081,AMTS,144/1,Lal Darwaja to Madhav Homes (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2088,AMTS,146/1,Ranip Gam to Chinubhainagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2089,AMTS,146/1,Chinubhainagar to Ranip Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2093,AMTS,146/1,Ranip Gam to Nava Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2094,AMTS,146/1,Ranip Gam to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2097,AMTS,147,Ranchodpura Cross Road to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2098,AMTS,147,Vadaj to Ranchodpura Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2102,AMTS,147/1,Silver Oak University to Vastral Gam(Metro Station) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2103,AMTS,147/1,Vastral Gam(Metro Station) to Silver Oak University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2108,AMTS,147/2,Vagheshwari Soc(Chandlodia Rly Station) to Swami Vivekanand Chowk(Vastral) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2109,AMTS,147/2,Swami Vivekanand Chowk(Vastral) to Vagheshwari Soc(Chandlodia Rly Station) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2114,AMTS,148,Naroda to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2115,AMTS,148,Sarangpur to Naroda (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2118,AMTS,148/1,Bakrol-Bujrang Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2119,AMTS,148/1,Sarangpur to Bakrol-Bujrang Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2124,AMTS,149,Haldharvas Patiya to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2125,AMTS,149,Lal Darwaja to Haldharvas Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2128,AMTS,149/1,Undrel Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2129,AMTS,149/1,Sarangpur to Undrel Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2130,AMTS,15,Chosar Gam to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2131,AMTS,15,Maninagar to Chosar Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2132,AMTS,15/1,Vinobabhavenagar to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2133,AMTS,15/1,Maninagar to Vinobabhavenagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2134,AMTS,15/3,Khatraj (Panchvati circle) to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2135,AMTS,15/3,Maninagar to Khatraj (Panchvati circle) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2136,AMTS,15/3sh,Virol Darwaja (Mahemdavad) to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2137,AMTS,15/3sh,Maninagar to Virol Darwaja (Mahemdavad) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2140,AMTS,150,Chinubhainagar to Sarkhej Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2141,AMTS,150,Sarkhej Gam to Chinubhainagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2146,AMTS,150,Sarangpur to Sarkhej Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2147,AMTS,150,Sarkhej Gam to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2167,AMTS,151,Vivekanandnagar to Hatkeshwar Depo (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2175,AMTS,151/2,Nandej-Barejadi Gam to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2176,AMTS,151/2,Maninagar to Nandej-Barejadi Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2189,AMTS,151/4,Hatkeshwar Depo to Gujarat University (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2190,AMTS,151/4,Gujarat University to Hatkeshwar Depo (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2194,AMTS,151sh,Vivekanandnagar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2195,AMTS,151sh,Lal Darwaja to Vivekanandnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2206,AMTS,152/1,Bakrol-Bujrang Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2207,AMTS,152/1,Lal Darwaja to Bakrol-Bujrang Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2210,AMTS,152/1,Gatrad Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2215,AMTS,152/1,Lal Darwaja to Gatrad Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2218,AMTS,152Sh,Dhamatwan Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2219,AMTS,152Sh,Lal Darwaja to Dhamatwan Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2225,AMTS,16,Karai Gam to Vatva Railway Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2226,AMTS,16,Vatva Railway Station to Karai Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2228,AMTS,16,Karai Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2229,AMTS,16,Maninagar to Someshwar Mahadev (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2231,AMTS,16,Maninagar to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2234,AMTS,16,Someshwar Mahadev to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2235,AMTS,16,Sarangpur to Vatva Railway Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2237,AMTS,16,Vatva Railway Station to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2238,AMTS,160,Silver Oak University to Hatkeshwar Depo (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2239,AMTS,160,Hatkeshwar Depo to Silver Oak University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2248,AMTS,17,Meghaninagar to Karnavati Chowk-4 (New Narol) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2249,AMTS,17,Karnavati Chowk-4 (New Narol) to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2276,AMTS,204,Vasna to Vasna (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2283,AMTS,205,Vasna to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2296,AMTS,22/1,Bareja Eye Hospital to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2304,AMTS,22sh,Indiranagar Vibhag-2 (Pani ni Tanki) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2305,AMTS,22sh,Lal Darwaja to Indiranagar Vibhag-2 (Pani ni Tanki) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2308,AMTS,23,Lambha Gam to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2309,AMTS,23,Maninagar to Lambha Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2310,AMTS,28,Lambha Gam to Meghaninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2311,AMTS,28,Meghaninagar to Lambha Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2314,AMTS,28,Meghaninagar to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2315,AMTS,28,Sarangpur to Meghaninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2316,AMTS,28sh,Indiranagar Vibhag-2 (Pani ni Tanki) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2317,AMTS,28sh,Sarangpur to Indiranagar Vibhag-2 (Pani ni Tanki) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2319,AMTS,29,Devimata Mandir to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2320,AMTS,29,Sarangpur to Devimata Mandir (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2321,AMTS,30,Karnavati Chowk-4 (New Narol) to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2322,AMTS,30,Maninagar to Karnavati Chowk-4 (New Narol) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2324,AMTS,30,Karnavati Chowk-4 (New Narol) to Isanpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2331,AMTS,30/3,Dev Residency to Dani Limda Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2332,AMTS,30/3,Dani Limda Gam to Dev Residency (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2334,AMTS,30/3,Dev Residency to Paldi (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2343,AMTS,31,Meghaninagar to Sarkhej Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2344,AMTS,31,Sarkhej Gam to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2346,AMTS,31,Meghaninagar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2348,AMTS,31,Lal Darwaja to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2349,AMTS,31,Sarkhej Gam to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2351,AMTS,31,Lal Darwaja to Sarkhej Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2353,AMTS,31/1,Aradhana Residency (Fateh wadi Kenal) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2354,AMTS,31/1,Lal Darwaja to Aradhana Residency (Fateh wadi Kenal) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2355,AMTS,31/4,Kasindra Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2356,AMTS,31/4,Lal Darwaja to Kasindra Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2360,AMTS,31/4sh,Bakrol Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2361,AMTS,31/4sh,Lal Darwaja to Bakrol Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2362,AMTS,31/4sh,Paldi to Bakrol Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2369,AMTS,31/5,Lal Darwaja to Vadnagar  Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2372,AMTS,32,Nigam Society to Ambedkarnagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2373,AMTS,32,Ambedkarnagar to Nigam Society (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2375,AMTS,32,Lal Darwaja to Ambedkarnagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2378,AMTS,33,S.P.Ring Road (Odhav Gidc) to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2379,AMTS,33,Vasna to S.P.Ring Road (Odhav Gidc) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2384,AMTS,33,Lal Darwaja to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2389,AMTS,33,Vasna to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2398,AMTS,33/1sh,Civil Hospital to Vaishali Township (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2399,AMTS,33/1sh,Vaishali Township to Civil Hospital (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2400,AMTS,33/1sh,Lal Darwaja to Vaishali Township (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2401,AMTS,33/1sh,Paldi to Vaishali Township (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2402,AMTS,33/1sh,Vaishali Township to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2405,AMTS,34/3,Adani Vidyavihar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2406,AMTS,34/3,Lal Darwaja to Adani Vidyavihar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2409,AMTS,34/4,Ambedkarnagar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2410,AMTS,34/4,Lal Darwaja to Ambedkarnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2414,AMTS,34/5,Lal Darwaja to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2415,AMTS,34/5,Meghaninagar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2417,AMTS,35,Dhedhal Cross Road (Bavla) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2418,AMTS,35,Lal Darwaja to Dhedhal Cross Road (Bavla) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2419,AMTS,35,Bavla to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2420,AMTS,35,Lal Darwaja to Bavla (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2421,AMTS,35,Lal Darwaja to Rajoda Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2422,AMTS,35,Rajoda Patiya to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2423,AMTS,36/1,Sarkhej Roza to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2424,AMTS,36/1,Sarangpur to Sarkhej Roza (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2432,AMTS,37sh,Bapunagar to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2433,AMTS,37sh,Vasna to Bapunagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2434,AMTS,37sh,Bapunagar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2440,AMTS,39/3,Ambedkarnagar to Bhakti Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2441,AMTS,39/3,Bhakti Circle to Ambedkarnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2442,AMTS,39/3,Ambedkarnagar to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2451,AMTS,40,Meda-Adraj Gam to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2452,AMTS,40,Vadaj to Meda-Adraj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2464,AMTS,40/2,Bavla to Ranip Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2465,AMTS,40/2,Ranip Gam to Bavla (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2467,AMTS,40/2,Iskon Mandir to Nava Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2468,AMTS,40/2,Iskon Mandir to Ranip Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2469,AMTS,40/2,Nava Vadaj to Bavla (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2470,AMTS,40/2,Nava Vadaj to Iskon Mandir (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2471,AMTS,40/2,Ranip Gam to Iskon Mandir (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2472,AMTS,40/3,Gayatri Vidyalay to Ambedkarnagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2473,AMTS,40/3,Ambedkarnagar to Gayatri Vidyalay (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2479,AMTS,400,Lal Darwaja to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2480,AMTS,401,Chandkheda (Sarthi Bunglows) to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2481,AMTS,401,Vasna to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2486,AMTS,401,Vadaj to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2487,AMTS,401,Vasna to Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2495,AMTS,42,Nigam Society to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2496,AMTS,42,Shilaj Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2501,AMTS,43,Vastrapur to Ambli Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2546,AMTS,50,Naroda to Ghuma Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2547,AMTS,50,Ghuma Gam to Naroda (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2561,AMTS,500,Lal Darwaja to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2562,AMTS,501,Amba Township Sector-5 (Trimandir) to Sanathal Cross Road (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2563,AMTS,501,Sanathal Cross Road to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2572,AMTS,501,Prabhahanuman Mandir(Trimandir) to Sarkhej-Bavla Circle (Ujala Hotel) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2574,AMTS,501,Sarkhej-Bavla Circle (Ujala Hotel) to Prabhahanuman Mandir(Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2581,AMTS,503,Kalol Institute Technology College to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2582,AMTS,503,Lal Darwaja to Kalol Institute Technology College (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2589,AMTS,50,Income Tax Office to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2590,AMTS,50,Meghaninagar to Income Tax Office (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2591,AMTS,51Ri,Rancharda Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2592,AMTS,51Ri,Lal Darwaja to Rancharda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2594,AMTS,51Ri,Lal Darwaja to Shilaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2596,AMTS,51T,Lal Darwaja to Thol Gam (Saradar Chowk) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2601,AMTS,51sh,Lal Darwaja to Rancharda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2605,AMTS,52,Thol Gam (Saradar Chowk) to Ranip Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2606,AMTS,52,Ranip Gam to Thol Gam (Saradar Chowk) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2609,AMTS,52/2,Sattadhar Society to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2610,AMTS,52/2,Maninagar to Sattadhar Society (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2615,AMTS,53,Thol Gam (Saradar Chowk) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2616,AMTS,53,Lal Darwaja to Thol Gam (Saradar Chowk) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2617,AMTS,54,Vaishnodevi Circle(Zydus Life) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2618,AMTS,54,Lal Darwaja to Vaishnodevi Circle(Zydus Life) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2632,AMTS,56/1,Sardar Party Plot (S.P.Ring Road) to Kalupur Terminus (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2634,AMTS,56/1,Mahavirnagar to Sardar Party Plot (S.P.Ring Road) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2644,AMTS,58,Sarangpur to Kush Society (New Naroda) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2653,AMTS,63,Ramdev Masala to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2654,AMTS,63,Lal Darwaja to Ramdev Masala (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2655,AMTS,63,Lal Darwaja to Usmanpura (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2656,AMTS,63/1,Lilapur Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2657,AMTS,63/1,Lal Darwaja to Lilapur Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2660,AMTS,63/1,Vadaj to Lilapur Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2661,AMTS,64,Ramdev Masala to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2662,AMTS,64,Lal Darwaja to Ramdev Masala (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2663,AMTS,64,Ramdev Masala to Usmanpura (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2665,AMTS,64,Usmanpura to Ramdev Masala (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2667,AMTS,64/1,Jaspur Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2672,AMTS,64/2,Krushna Yaan to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2673,AMTS,64/2,Lal Darwaja to Krushna Yaan (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2674,AMTS,64/2,Krushna Yaan to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2675,AMTS,64/2,Vadaj to Krushna Yaan (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2676,AMTS,64/3,Ranip Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2677,AMTS,64/3,Lal Darwaja to Ranip Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2678,AMTS,65,Vasantnagar Township to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2679,AMTS,65,Lal Darwaja to Vasantnagar Township (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2682,AMTS,65/1,Mangalmurti Apartment to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2683,AMTS,65/1,Lal Darwaja to Mangalmurti Apartment (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2684,AMTS,65/2,Arvind Polycoat (Khatraj) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2685,AMTS,65/2,Lal Darwaja to Arvind Polycoat (Khatraj) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2692,AMTS,66,Shilaj Gam to Asarva Railway Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2693,AMTS,66,Asarva Railway Station to Shilaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2695,AMTS,66,Shilaj Gam to Income Tax Office (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2696,AMTS,66/1,Shilaj Gam to Asarva Railway Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2697,AMTS,66/1,Asarva Railway Station to Shilaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2700,AMTS,66/1,Shilaj Gam to Usmanpura (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2705,AMTS,66/3,Arvind Polycoat (Khatraj) to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2706,AMTS,66/3,Naroda to Arvind Polycoat (Khatraj) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2717,AMTS,66/3sh,Moti Bhoyan Chokdi to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2718,AMTS,66/3sh,Naroda to Moti Bhoyan Chokdi (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2721,AMTS,66/4,Arvind Polycoat (Khatraj) to Kush Society (New Naroda) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2722,AMTS,66/4,Kush Society (New Naroda) to Arvind Polycoat (Khatraj) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2724,AMTS,69,Oganaj Circle (S.P.Ring Road) to S.P.Ring Road (Odhav Gidc) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2725,AMTS,69,S.P.Ring Road (Odhav Gidc) to Oganaj Circle (S.P.Ring Road) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2726,AMTS,69,Bhadaj Circle (S.P.Ring Road) to Kalupur Terminus (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2729,AMTS,69-D-KSP(O),Kalupur to S.P.Ring Road (Odhav Gidc),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2730,AMTS,69,Oganaj Circle (S.P.Ring Road) to Kalupur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2731,AMTS,69-U-SP(OG)C,S.P.Ring Road (Odhav Gidc) to Bhadaj Circle (S.P.Ring Road),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2739,AMTS,69,Kalupur to Bhadaj Circle (S.P.Ring Road) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2746,AMTS,70,Bhakti Circle to Vagheshwari Soc(Chandlodia Rly Station) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2747,AMTS,70,Vagheshwari Soc(Chandlodia Rly Station) to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2748,AMTS,70,Bhakti Circle to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2751,AMTS,70,Vagheshwari Soc(Chandlodia Rly Station) to Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2752,AMTS,70/1,Meghaninagar to Gujarat High Court (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2753,AMTS,70/1,Gujarat High Court to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2758,AMTS,70/2,Kalol Police Chowki Underbridge to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2759,AMTS,70/2,Vadaj to Kalol Police Chowki Underbridge (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2762,AMTS,72,Krushna Yaan to Nigam Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2763,AMTS,72,Nigam Society to Krushna Yaan (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2766,AMTS,72,Krushna Yaan to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2767,AMTS,72,Lal Darwaja to Nigam Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2771,AMTS,72,Nigam Society to Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2774,AMTS,72,Vadaj to Krushna Yaan (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2778,AMTS,74,Vatva Railway Station to Andh Kalyan Kendra (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2779,AMTS,74,Andh Kalyan Kendra to Vatva Railway Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2782,AMTS,74,Lal Darwaja to Vatva Railway Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2785,AMTS,74,Vatva Railway Station to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2786,AMTS,74/1,Kali Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2787,AMTS,74/1,Lal Darwaja to Kali Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2789,AMTS,74/1,Kali Gam to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2790,AMTS,74/1,Vadaj to Kali Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2791,AMTS,75,Chandkheda (Sarthi Bunglows) to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2792,AMTS,75,Maninagar to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2793,AMTS,75,Chandkheda (Sarthi Bunglows) to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2795,AMTS,75,Lal Darwaja to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2796,AMTS,75,Maninagar to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2801,AMTS,76,Vaishnodevi Circle(Zydus Life) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2802,AMTS,76,Sarangpur to Vaishnodevi Circle(Zydus Life) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2805,AMTS,76,Vadaj to Vaishnodevi Circle(Zydus Life) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2806,AMTS,76,Vaishnodevi Circle(Zydus Life) to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2807,AMTS,77,Vatva Railway Station to Nava Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2808,AMTS,77,Nava Vadaj to Vatva Railway Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2813,AMTS,77,Kalupur to Vatva Railway Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2815,AMTS,77,Nava Vadaj to Kalupur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2820,AMTS,79,Krushna Yaan to Badrinarayan Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2821,AMTS,79,Badrinarayan Society to Krushna Yaan (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2822,AMTS,79,Badrinarayan Society to Chenpur Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2824,AMTS,79,Badrinarayan Society to Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2825,AMTS,79,Chenpur Gam to Badrinarayan Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2826,AMTS,79,Chenpur Gam to Kalupur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2827,AMTS,79,Chenpur Gam to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2828,AMTS,79,Krushna Yaan to Kalupur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2830,AMTS,79,Vadaj to Badrinarayan Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2832,AMTS,79,Vadaj to Krushna Yaan (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2833,AMTS,79,Kalupur to Badrinarayan Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2834,AMTS,79,Vadaj to Chenpur Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2837,AMTS,82,Gayatri Vidyalay to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2838,AMTS,82,Lal Darwaja to Gayatri Vidyalay (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2839,AMTS,82,Gayatri Vidyalay to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2841,AMTS,83,Chandkheda (Sarthi Bunglows) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2842,AMTS,83,Lal Darwaja to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2849,AMTS,84/1,Vishwakarma College Metro (S.M.S. Hospital) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2850,AMTS,84/1,Lal Darwaja to Vishwakarma College Metro (S.M.S. Hospital) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2852,AMTS,85sh,Tragad Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2855,AMTS,85sh,Chandkheda (Sarthi Bunglows) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2858,AMTS,85sh,Lal Darwaja to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2861,AMTS,87,Amba Township Sector-5 (Trimandir) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2862,AMTS,87,Sarangpur to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2863,AMTS,87,Amba Township Sector-5 (Trimandir) to Acher Depo (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2864,AMTS,87,Acher Depo to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2878,AMTS,89/1,Amba Township Sector-5 (Trimandir) to Chandkheda Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2879,AMTS,89/1,Chandkheda Gam to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2883,AMTS,89/1sh,Amba Township Sector-5 (Trimandir) to Asarva Railway Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2887,AMTS,89/2,Jawahar Chowk (Sabarmati) to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2888,AMTS,89/2,Kalupur to Ramol Gam Talav (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2893,AMTS,89/2,Tragad Gam to Jawahar Chowk (Sabarmati) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2894,AMTS,89/3,Tragad Gam to Amraiwadi (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2896,AMTS,89/3,Amraiwadi to Kalupur Metro Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2912,AMTS,90sh,Bhakti Circle to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2913,AMTS,90sh,Tragad Gam to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2914,AMTS,90sh,Bhakti Circle to Krushnanagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2915,AMTS,90sh,Chandkheda Gam to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2916,AMTS,90sh,Krushnanagar to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2920,AMTS,90sh,Tragad Gam to Krushnanagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2921,AMTS,90sh,Tragad Gam to Abu-Koba Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2922,AMTS,96,Vatva Railway Station to Civil Hospital (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2923,AMTS,96,Civil Hospital to Vatva Railway Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2935,AMTS,999/1,Vaishanavdevi Circle to Sanathal Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3063,AMTS,142,Lal Darwaja to Gujarat University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3064,AMTS,142,Gujarat University to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4390,AMTS,14sh,Geeta Mandir (BRT) to Ropda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4391,AMTS,14sh,Lal Darwaja to Mahalakshmi Talav (Vatva) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4393,AMTS,14sh,Lal Darwaja to Nirmal Saroavar Bunglows (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4397,AMTS,16,Sarangpur to Karai Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4419,AMTS,22,Tragad Gam to Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4428,AMTS,37sh,Lal Darwaja to Bapunagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4429,AMTS,37sh,Vasna to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4466,AMTS,70/3,Vadnagar  Patiya to Nava Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4467,AMTS,70/3,Nava Vadaj to Vadnagar  Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4468,AMTS,75,Vadaj to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4477,AMTS,89/3,Chandkheda (Sarthi Bunglows) to Tragad Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4481,AMTS,106,Sarangpur to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4484,AMTS,112,Kubernagar Bangla to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4485,AMTS,112,Meghaninagar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4487,AMTS,112,Lal Darwaja to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4488,AMTS,112,Lal Darwaja to Kubernagar Bangla (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4489,AMTS,127,Bhakti Circle to Memco (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4490,AMTS,127,Memco to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4508,AMTS,71/1sh,Gandhinagar University to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4509,AMTS,71/1sh,Gandhinagar University to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4519,AMTS,71/1sh,Lal Darwaja to Gandhinagar University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4520,AMTS,71/1sh,Vadaj to Gandhinagar University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4536,AMTS,146/6,Arbudanagar to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4537,AMTS,146/6,Sarangpur to Arbudanagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4541,AMTS,AB1,Vasna to Vasna (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4563,AMTS,Metro1,Thaltej Metro Station to Thaltej Metro Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4564,AMTS,Metro11,Appolo Hospital to Narendra Modi Stadium (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4565,AMTS,Metro11,Narendra Modi Stadium to Appolo Hospital (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4568,AMTS,Metro13,Narol Circle to Jivraj Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4569,AMTS,Metro13,Jivraj Park to Narol Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4570,AMTS,Metro14,Pakwan to Jivraj Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4571,AMTS,Metro14,Jivraj Park to Pakwan (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4572,AMTS,Metro2,Thaltej Metro Station to Thaltej Metro Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4573,AMTS,Metro3,Thaltej Metro Station to Thaltej Metro Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4574,AMTS,Metro4,Thaltej Metro Station to Thaltej Metro Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4575,AMTS,Metro5,Thaltej Metro Station to Thaltej Metro Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4576,AMTS,Metro6,Thaltej Metro Station to Thaltej Metro Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4577,AMTS,Metro7,Thaltej Metro Station to Thaltej Metro Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4578,AMTS,Metro8,Thaltej Metro Station to Thaltej Metro Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4579,AMTS,ML1,Narendra Modi Stadium to Ghuma Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4580,AMTS,ML1,Narendra Modi Stadium to Thaltej Metro Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4581,AMTS,ML1,Thaltej Metro Station to Ghuma Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4582,AMTS,ML1,Ghuma Gam to Narendra Modi Stadium (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4583,AMTS,PF1,Sindhu Bhavan Road(Multi level parking) to Mansi Complex (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4584,AMTS,PF1,Mansi Complex to Sindhu Bhavan Road(Multi level parking) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4596,AMTS,RFEx1C,Vasna to Vasna (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4597,AMTS,RFEx1C-VP,Vasna to Paldi (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4599,AMTS,RFEW-AM,Amts Staff Quarters to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4667,AMTS,71/1,Vamaj Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4668,AMTS,71/1,Lal Darwaja to Vamaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4670,AMTS,84/1,Rajivnagar (Chandkheda) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4672,AMTS,109,Kotarpur Approach to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4678,AMTS,71/1,Vadaj to Vamaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4680,AMTS,74,Lal Darwaja to Andh Kalyan Kendra (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4681,AMTS,74,Andh Kalyan Kendra to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4685,AMTS,130sh,Lambha Gam to Isanpur (BRTS) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4686,AMTS,130sh,Isanpur (BRTS) to Lambha Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4694,AMTS,503,Kalol Institute Technology College to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4697,AMTS,147/2,Kalupur to Swami Vivekanand Chowk(Vastral) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4698,AMTS,147/2,Vagheshwari Soc(Chandlodia Rly Station) to Kalupur Terminus (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4701,AMTS,71/1,Vamaj Gam to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4710,AMTS,14sh,Ropda Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4711,AMTS,14sh,Mahalakshmi Talav (Vatva) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4714,AMTS,14sh,Nirmal Saroavar Bunglows to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4731,AMTS,22,Vadaj to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4738,AMTS,84/1,Lal Darwaja to Rajivnagar (Chandkheda) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4747,AMTS,31/5,Hirapur (Sanand) MSME Park to Vadnagar  Patiya (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4748,AMTS,31/5,Vadnagar  Patiya to Hirapur (Sanand) MSME Park (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4754,AMTS,51/1,Medha Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4755,AMTS,85/1,Shree Ram Chowk (New Tragad) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4756,AMTS,85/1,Shree Ram Chowk (New Tragad) to Chandkheda Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4760,AMTS,85/1,Chandkheda Gam to Shree Ram Chowk (New Tragad) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4761,AMTS,85/1,Lal Darwaja to Shree Ram Chowk (New Tragad) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4762,AMTS,89/3,Amraiwadi to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4770,AMTS,51/1,Lal Darwaja to Medha Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4784,AMTS,Metro10,Vastral Gam(Metro Station) to Vastral Gam(Metro Station) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4785,AMTS,Metro9,Vastral Gam(Metro Station) to Vastral Gam(Metro Station) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4787,AMTS,RFEW-MA,Maninagar to Amts Staff Quarters (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4788,AMTS,RFEW,Maninagar to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4789,AMTS,109,Naroda to Kotarpur Approach (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4792,AMTS,503,Vadaj to Chhatral Chowkdi (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4793,AMTS,503,Chhatral Chowkdi to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4794,AMTS,31/5,Motipura Chokdi(Sanand) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4795,AMTS,31/5,Lal Darwaja to Motipura Chokdi(Sanand) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4797,AMTS,51/1,Medha Gam to Sanand Cross Road (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4798,AMTS,51/1,Sanand Cross Road to Medha Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4800,AMTS,66/3,Sarangpur to Arvind Polycoat (Khatraj) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4801,AMTS,69-B-D-SP(O),Bhadaj Circle (S.P.Ring Road) to S.P.Ring Road (Odhav Gidc),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4802,AMTS,69-U-SP(OG)K,S.P.Ring Road (Odhav Gidc) to Kalupur Terminus,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4803,AMTS,70,Civil Hospital to Vagheshwari Soc(Chandlodia Rly Station) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4804,AMTS,70,Civil Hospital to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4805,AMTS,70,Vagheshwari Soc(Chandlodia Rly Station) to Civil Hospital (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4806,AMTS,70,Vagheshwari Soc(Chandlodia Rly Station) to Naroda (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4807,AMTS,70,Naroda to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4808,AMTS,70,Vadaj to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4812,AMTS,72,Lal Darwaja to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4813,AMTS,72,Maninagar to Nigam Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4814,AMTS,72,Maninagar to Krushna Yaan (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4815,AMTS,66/3sh,Kalupur to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4816,AMTS,66/3sh,Moti Bhoyan Chokdi to Arvind Polycoat (Khatraj) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4830,AMTS,31/5,Lal Darwaja to Hirapur (Sanand) MSME Park (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4831,AMTS,31/5,Hirapur (Sanand) MSME Park to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4833,AMTS,70,Bhakti Circle to Civil Hospital (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4836,AMTS,72,Krushna Yaan to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4841,AMTS,22/1,Lal Darwaja to Bidaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4844,AMTS,22/1,Bidaj Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4845,AMTS,32,Nigam Society to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4846,AMTS,34/5,Lal Darwaja to Kalapinagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4848,AMTS,49/2,L.D.Engineering College BRT to Nirant Chokdi (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4849,AMTS,49/2,Nirant Chokdi to L.D.Engineering College BRT (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4850,AMTS,50,Meghaninagar to Ghuma Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4851,AMTS,50,Ghuma Gam to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4852,AMTS,50,Ghuma Gam to Income Tax Office (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4853,AMTS,50,Income Tax Office to Ghuma Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4855,AMTS,58,Sarangpur to Govardhan party plot (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4856,AMTS,58,Govardhan party plot to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4858,AMTS,58,Govardhan party plot to Kush Society (New Naroda) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4859,AMTS,58,Kush Society (New Naroda) to Govardhan party plot (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4860,AMTS,60sh,Lal Darwaja to Bhagwat Bungalowz (South Bopal) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4861,AMTS,60sh,Bhagwat Bungalowz (South Bopal) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4862,AMTS,66/3sh,Arvind Polycoat (Khatraj) to Moti Bhoyan Chokdi (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4865,AMTS,72,Krushna Yaan to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4866,AMTS,89/1,Kalupur to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4868,AMTS,89/1,Amba Township Sector-5 (Trimandir) to Kalupur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4870,AMTS,89/1sh,Chandkheda Gam to Asarva Railway Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4871,AMTS,89/2,Kalupur to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4872,AMTS,89/2,Ramol Gam Talav to Kalupur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4873,AMTS,89/2,Tragad Gam to Kalupur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4874,AMTS,89/2,Tragad Gam to RTO Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4875,AMTS,109sh,Naroda to Kotarpur Approach (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4876,AMTS,109sh,Kotarpur Approach to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4879,AMTS,128,Sarangpur to Nigam Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4881,AMTS,130sh,Naroda to Narol Circle (BRTS) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4890,AMTS,138/1,Vadnagar  Patiya to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4891,AMTS,144/1,Lal Darwaja to Shitalchhaya Society (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4892,AMTS,144/1,Shitalchhaya Society to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4893,AMTS,144sh,Arbudanagar to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4894,AMTS,144sh,Sarangpur to Arbudanagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4895,AMTS,147/1,Vadaj to Silver Oak University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4896,AMTS,147/1,Silver Oak University to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4897,AMTS,150sh,Vasna to Singarwa Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4898,AMTS,150sh,Amts Staff Quarters to Singarwa Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4899,AMTS,150sh,Singarwa Patiya to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4900,AMTS,150sh,Singarwa Patiya to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4903,AMTS,151/3,Hatkeshwar Depo to Nidharad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4904,AMTS,151/3,Nidharad Gam to Hatkeshwar Depo (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4905,AMTS,151/4,Raipur Darwaja to Hatkeshwar Depo (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4906,AMTS,151/4,Hatkeshwar Depo to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4908,AMTS,151/4,Lal Darwaja to Gujarat University (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4910,AMTS,200/300sh,Maninagar to Civil Hospital (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4911,AMTS,200/300sh,Civil Hospital to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4912,AMTS,151/2,Maninagar to Vivekanandnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4932,AMTS,33,Bapunagar to S.P.Ring Road (Odhav Gidc) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4933,AMTS,33,Bapunagar to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4934,AMTS,33,S.P.Ring Road (Odhav Gidc) to Bapunagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4937,AMTS,84,Lal Darwaja to Jawahar Chowk (Sabarmati) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4944,AMTS,300,Memco to Civil Hospital (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4947,AMTS,503,Acher Depo to S.P.Ring Road (Zundal) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4948,AMTS,503,S.P.Ring Road (Zundal) to Acher Depo (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4949,AMTS,142,Vastral Metro Station to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4950,AMTS,142,Sarangpur to Vastral Metro Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4951,AMTS,35,Lal Darwaja to Sarkhej-Bavla Circle (Ujala Hotel) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4952,AMTS,35,Sarkhej-Bavla Circle (Ujala Hotel) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4953,AMTS,35,Sanathal Circle to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4954,AMTS,35,Lal Darwaja to Sanathal Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4955,AMTS,503,Acher Depo to Prabhahanuman Mandir(Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4956,AMTS,503,Prabhahanuman Mandir(Trimandir) to Acher Depo (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4959,AMTS,51T,Thaltej Gam to Thaltej Metro Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4967,AMTS,300,Maninagar to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4968,AMTS,300,Vadaj to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4973,AMTS,135,Lal Darwaja to Pramukh Swaminagar (Bapunagar Tollnaka) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4975,AMTS,151,Hatkeshwar Depo to Antariksh Colony (BRT) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4976,AMTS,151,Hatkeshwar Depo to Vivekanandnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4977,AMTS,151,Antariksh Colony (BRT) to Hatkeshwar Depo (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4978,AMTS,130sh,Lambha Gam to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4991,AMTS,51sh,Thaltej Metro Station to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4994,AMTS,38sh,Gyaspur Gam to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4997,AMTS,38sh,Lal Darwaja to Gyaspur Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4998,AMTS,22,Tragad Gam to Indiranagar Vibhag-2 (Pani ni Tanki) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4999,AMTS,22,Indiranagar Vibhag-2 (Pani ni Tanki) to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5000,AMTS,49sh,Sarangpur to Krishna Shelbi Hospital (Ghuma) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5001,AMTS,49sh,Krishna Shelbi Hospital (Ghuma) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5002,AMTS,49/1,Sarangpur to Jodhpur Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5003,AMTS,49/1,Jodhpur Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5006,AMTS,151,Vivekanandnagar to Antariksh Colony (BRT) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5007,AMTS,142sh,Sukharam Mahadev to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5008,AMTS,142sh,Sarangpur to Sukharam Mahadev (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5011,AMTS,102,Akshardham Mandir (Gandhinagar) to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5015,AMTS,149,Ajit Mills Char Rasta (BRT) to Haldharvas Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5016,AMTS,149,Haldharvas Patiya to Ajit Mills Char Rasta (BRT) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5027,AMTS,22,Lal Darwaja to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5028,AMTS,22,Indiranagar Vibhag-2 (Pani ni Tanki) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5029,AMTS,22,Lal Darwaja to Indiranagar Vibhag-2 (Pani ni Tanki) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5034,AMTS,40/1,Vinobabhavenagar to Iskon Mandir (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5036,AMTS,40/1,Maninagar to Iskon Mandir (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5037,AMTS,40/1,Vatva Railway Station to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5038,AMTS,40/1,Vinobabhavenagar to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5039,AMTS,40/1,Iskon Mandir to Vinobabhavenagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5040,AMTS,40/1,Maninagar to Vatva Railway Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5041,AMTS,40/1,Maninagar to Vinobabhavenagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5042,AMTS,40/1,Iskon Mandir to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5044,AMTS,49/2,L.D.Engineering College BRT to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5045,AMTS,49/2,Sarangpur to Nirant Chokdi (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5047,AMTS,52/2,Gujarat University to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5060,AMTS,130sh,Naroda Industrial Township( MuthiyaGam ) to Naroda (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5061,AMTS,130sh,Naroda Industrial Township( MuthiyaGam ) to Isanpur (BRTS) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5062,AMTS,130sh,Isanpur (BRTS) to Naroda Industrial Township( MuthiyaGam ) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5063,AMTS,130sh,Naroda to Naroda Industrial Township( MuthiyaGam ) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5064,AMTS,130sh,Narol Circle (BRTS) to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5065,AMTS,130sh,Naroda to Lambha Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5067,AMTS,151,Antariksh Colony (BRT) to Vivekanandnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5071,AMTS,151/3,Ghuma BRTS to Hatkeshwar Depo (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5072,AMTS,151/3,Hatkeshwar Depo to Ghuma BRTS (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5073,AMTS,300,Maninagar to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5074,AMTS,34/5,Ambedkarnagar to Meghaninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5075,AMTS,34/5,Meghaninagar to Ambedkarnagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5082,AMTS,150,Sarangpur to Chinubhainagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5083,AMTS,150,Chinubhainagar to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5084,AMTS,49sh,Sarangpur to Iskcon mandir BRT (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5086,AMTS,50,Naroda to Iskcon mandir BRT (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5088,AMTS,49sh,Iskcon mandir BRT to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5089,AMTS,999,Vastral Metro Station to Ognaj Toll Plaza (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5090,AMTS,999,Zundal Circle to Ognaj Toll Plaza (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5091,AMTS,999,Vastral Metro Station to Zundal Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5094,AMTS,999,Ognaj Toll Plaza to Vastral Metro Station (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5096,AMTS,49sh,Shivranjni Society to Krishna Shelbi Hospital (Ghuma) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5097,AMTS,28,P&T Quarters (Shahalam) to Meghaninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5099,AMTS,34/5,Lal Darwaja to Ambedkarnagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5100,AMTS,34/5,Kalapinagar to Ambedkarnagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5101,AMTS,34/5,Ambedkarnagar to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5103,AMTS,37/4,Sarangpur to Ambedkarnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5104,AMTS,37/4,Ambedkarnagar to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5105,AMTS,34/5,Ambedkarnagar to Kalapinagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5106,AMTS,146/1,Chinubhainagar to Ajit Mills (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5107,AMTS,146/1,Ajit Mills to Chinubhainagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5110,AMTS,14sh,Lal Darwaja to Ropda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5111,AMTS,17,Karnavati Chowk-4 (New Narol) to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5113,AMTS,17,Maninagar to Karnavati Chowk-4 (New Narol) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5115,AMTS,31/5,Vadnagar  Patiya to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5118,AMTS,33,Lal Darwaja to S.P.Ring Road (Odhav Gidc) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5119,AMTS,39/3,Sarangpur to Bhakti Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5121,AMTS,40/2,Bavla to Nava Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5124,AMTS,42,Nigam Society to Shilaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5125,AMTS,42,Shilaj Gam to Nigam Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5127,AMTS,42,Lal Darwaja to Shilaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5128,AMTS,42,Lal Darwaja to Nigam Society (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5130,AMTS,43,Lal Darwaja to Ambli Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5131,AMTS,43,Ambli Cross Road to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5133,AMTS,45,Lal Darwaja to Shela Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5135,AMTS,45,Lal Darwaja to Anandnagar (Madhur Hall) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5136,AMTS,45,Shela Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5138,AMTS,45,Anandnagar (Madhur Hall) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5140,AMTS,45/1,Lal Darwaja to Shela Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5143,AMTS,45/1,Lal Darwaja to Anandnagar (Madhur Hall) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5144,AMTS,45/1,Shela Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5146,AMTS,45/1,Anandnagar (Madhur Hall) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5152,AMTS,49,Odhav Panjarapol to Ghuma Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5153,AMTS,49,Ghuma Gam to Odhav Panjarapol (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5154,AMTS,49,Vakil Bridge to Odhav Panjarapol (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5155,AMTS,49,Sarangpur to Odhav Panjarapol (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5156,AMTS,49,Vakil Bridge to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5161,AMTS,49,Sarangpur to Vakil Bridge (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5162,AMTS,49,Odhav Panjarapol to Vakil Bridge (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5163,AMTS,49,Sarangpur to Ghuma Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5164,AMTS,49,Odhav Panjarapol to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5166,AMTS,55,Lal Darwaja to Arvind Polycoat (Khatraj) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5167,AMTS,55,Arvind Polycoat (Khatraj) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5168,AMTS,56,Sitarambapa Chowk (Gopal Chowk) to Antariksh Colony (Joitaramno Kuvo) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5169,AMTS,56,Antariksh Colony (Joitaramno Kuvo) to Sitarambapa Chowk (Gopal Chowk) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5170,AMTS,56,Antariksh Colony (Joitaramno Kuvo) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5171,AMTS,56,Gujarat University to Sitarambapa Chowk (Gopal Chowk) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5172,AMTS,56/1,Gujarat University to Sardar Party Plot (S.P.Ring Road) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5173,AMTS,56/1,Sardar Party Plot (S.P.Ring Road) to Gujarat University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5175,AMTS,58,Kush Society (New Naroda) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5219,AMTS,3,Bhadrakali Mandir to Bhadrakali Mandir (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5220,AMTS,12,Nenpur Gam to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5221,AMTS,401,Chandkheda (Sarthi Bunglows) to Paldi (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5224,AMTS,401,Chandkheda (Sarthi Bunglows) to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5226,AMTS,800,Paldi to Mansi Complex (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5229,AMTS,42,Sindhu Bhavan to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5230,AMTS,51T,Thaltej Metro Station to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5231,AMTS,51T,Lal Darwaja to Thaltej Metro Station (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5232,AMTS,142,Vastral Gam to Lal Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5233,AMTS,142,Lal Darwaja to Vastral Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5234,AMTS,144,Arbudanagar to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5236,AMTS,144,Sarangpur to Arbudanagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5237,AMTS,401,Vadaj to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5239,AMTS,149,Haldharvas Patiya to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5240,AMTS,149,Sarangpur to Haldharvas Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5241,AMTS,137M,Manmohan Park to Lapakaman Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5242,AMTS,137M,Manmohan Park to Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5243,AMTS,137M,Vadaj to Lapakaman Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5245,AMTS,137M,Lapakaman Gam to Manmohan Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5246,AMTS,137M,Lapakaman Gam to Kalupur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5247,AMTS,137M,Bapunagar to Manmohan Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5248,AMTS,137M,Lapakaman Gam to Bapunagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5249,AMTS,137M,Kalupur to Manmohan Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5250,AMTS,137M,Lapakaman Gam to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5251,AMTS,137M,Vadaj to Manmohan Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5255,AMTS,RFEx1A,Vasna to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5256,AMTS,RFEx1A,Vasna to Vallabhsadan Cross road (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5258,AMTS,138/1,Lal Darwaja to Vadnagar  Patiya (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5259,AMTS,138/1,Lal Darwaja to Ghuma Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5261,AMTS,138/1,Ghuma Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5263,AMTS,146/1,Vadaj to Chinubhainagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5264,AMTS,125/1,Sarangpur to Dabhoda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5265,AMTS,125/1,Naroda to Dabhoda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5266,AMTS,125/1,Dabhoda Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5267,AMTS,125/1,Dabhoda Gam to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5268,AMTS,123sh,Lal Darwaja to Krushnanagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5269,AMTS,123sh,Krushnanagar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5270,AMTS,130/4,Manmohan Park to Nava Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5272,AMTS,130/4,Nava Vadaj to Manmohan Park (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5275,AMTS,85sh,Lal Darwaja to Tragad Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5276,AMTS,89/1,Manmohan Park to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5277,AMTS,89/1,Amba Township Sector-5 (Trimandir) to Manmohan Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5284,AMTS,84,Lal Darwaja to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5286,AMTS,84,Chandkheda (Sarthi Bunglows) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5288,AMTS,148,Sarangpur to Kathwada Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5289,AMTS,148,Kathwada Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5292,AMTS,152,Lal Darwaja to Wanch Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5295,AMTS,152,Wanch Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5296,AMTS,160,Ramdev Masala to Hatkeshwar Depo (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5297,AMTS,160,Hatkeshwar Depo to Ramdev Masala (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5298,AMTS,49,Ghuma Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5299,AMTS,401sh,Acher Depo to Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5300,AMTS,401sh,Vadaj to Acher Depo (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5303,AMTS,51Ri,Shilaj Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5304,AMTS,51sh,Rancharda Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5305,AMTS,51sh,Shilaj Gam to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5306,AMTS,51sh,Lal Darwaja to Shilaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5307,AMTS,64/1,Lal Darwaja to Jaspur Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5308,AMTS,66/1,Usmanpura to Shilaj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5309,AMTS,88,Nava Vadaj to Nikol Kathwada Ring Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5310,AMTS,88,Nikol Kathwada Ring Road to Nava Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5311,AMTS,102,Lal Darwaja to Akshardham Mandir (Gandhinagar) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5313,AMTS,102,Akshardham Mandir (Gandhinagar) to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5314,AMTS,102,Maninagar to Akshardham Mandir (Gandhinagar) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5315,AMTS,102,Vadaj to Akshardham Mandir (Gandhinagar) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5316,AMTS,89/1sh,Asarva Railway Station to Amba Township Sector-5 (Trimandir) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5317,AMTS,89/1sh,Asarva Railway Station to Chandkheda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5318,AMTS,89/2,Tragad Gam to Ramol Gam Talav (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5319,AMTS,89/2,Ramol Gam Talav to Tragad Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5320,AMTS,89/3,Amraiwadi to Tragad Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5321,AMTS,89/3,Kalupur to Tragad Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5323,AMTS,89/3sh,Sarangpur to Tragad Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5324,AMTS,89/3sh,Sarangpur to Chandkheda (Sarthi Bunglows) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5325,AMTS,89/3sh,Tragad Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5326,AMTS,89/3sh,Chandkheda (Sarthi Bunglows) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5327,AMTS,200,Maninagar to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5328,AMTS,200,Maninagar to Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5329,AMTS,200,Civil Hospital to Memco (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5330,AMTS,200,Vadaj to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5331,AMTS,800,Nava Vadaj to Nava Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5333,AMTS,900,Nava Vadaj to Nava Vadaj (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5335,AMTS,136,Manmohan Park to Gujarat University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5336,AMTS,136,G.E.B (Naroda) to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5337,AMTS,136,Sarangpur to Manmohan Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5338,AMTS,136,Sarangpur to G.E.B (Naroda) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5339,AMTS,136,Gujarat University to Manmohan Park (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5340,AMTS,136,Manmohan Park to Sarangpur (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5342,AMTS,202,Vasna to Naroda (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5343,AMTS,202,Sattadhar Society to Naroda (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5344,AMTS,202,Naroda to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5345,AMTS,202,Naroda to Sarthak School (Sattadhar Cross Road) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5346,AMTS,151/2,Vivekanandnagar to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5347,AMTS,51T,Thol Gam (Saradar Chowk) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5358,AMTS,52/2,Maninagar to Gujarat University (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5359,AMTS,70,Bhakti Circle to Memco (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5362,AMTS,70,Naroda to Vagheshwari Soc(Chandlodia Rly Station) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5372,AMTS,40/1,Amts Staff Quarters to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5373,AMTS,123sh,Sarangpur to Krushnanagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5376,AMTS,16,Sarangpur to Someshwar Mahadev (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5379,AMTS,33,S.P.Ring Road (Odhav Gidc) to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5382,AMTS,117,Meghaninagar to Navapura Gam (Gate) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5383,AMTS,117,Navapura Gam (Gate) to Meghaninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5384,AMTS,117,Sarangpur to Navapura Gam (Gate) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5385,AMTS,22/1,Lal Darwaja to Bareja Eye Hospital (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5386,AMTS,Feeder-8,Apparel Park Metro Station (New Cotton Mills) to Apparel Park Metro Station (New Cotton Mills) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5387,AMTS,Feeder-9,Apparel Park Metro Station (New Cotton Mills) to Apparel Park Metro Station (New Cotton Mills) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5400,AMTS,50,Iskcon mandir BRT to Naroda (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5427,AMTS,66/3,Arvind Polycoat (Khatraj) to Memco (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5428,AMTS,66/3,S.P.Ring Road (Paghadi Sheth Farm) to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5433,AMTS,34/4,Lal Darwaja to Jivraj Park (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5434,AMTS,34/4,Jivraj Park to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5438,AMTS,66/3,Naroda to S.P.Ring Road (Paghadi Sheth Farm) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5453,AMTS,151,Lal Darwaja to Vivekanandnagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5454,AMTS,151,Vivekanandnagar to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5457,AMTS,146/1,Vadaj to Ranip Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5458,AMTS,117,Navapura Gam (Gate) to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5471,AMTS,137sh,Bapunagar to Vadaj (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5472,AMTS,137sh,Vadaj to Bapunagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5473,AMTS,125,Naroda to Karoli Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5474,AMTS,125,Karoli Gam to Naroda (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5475,AMTS,150,Chinubhainagar to Ajit Mills Char Rasta (BRT) (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5476,AMTS,150,Ajit Mills Char Rasta (BRT) to Sarkhej Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5477,AMTS,150,Sarkhej Gam to Ajit Mills Char Rasta (BRT) (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5478,AMTS,150,Ajit Mills Char Rasta (BRT) to Chinubhainagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5485,AMTS,143sh,Sarangpur to Pasunj Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5486,AMTS,143sh,Pasunj Gam to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5491,AMTS,134/1,Lal Darwaja to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5492,AMTS,134/1,Sarangpur to Bhakti Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5493,AMTS,134/1,Bhakti Circle to Lal Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5494,AMTS,134/1,Bhakti Circle to Sarangpur (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2945,AJL,1D,Maninagar to Ghuma Gam (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2947,AJL,1E-GK,Ghuma Gam to Kashiram Textiles,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2948,AJL,1E-MS,Maninagar to Soma Textiles,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2949,AJL,1S-CG,Chhipa Society to Ghuma Gam,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2951,AJL,1S-SM,Soma Textiles to Maninagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2952,AJL,1U,Ghuma Gam to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2953,AJL,11D-OL,SP Ring Road Approach to LD Engg. College (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2954,AJL,11U-AO,Ajit Mill Char Rasta to SP Ring Road Approach (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2955,AJL,11U-LO,LD Engg. College to SP Ring Road Approach (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2956,AJL,11U-LS,LD Engg. College to Soma Textiles (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2957,AJL,12D-PR,Rameshwar Park to R.T.O. Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2959,AJL,12D-RR,Rabari Colony to R.T.O. Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2961,AJL,12U-RL,R.T.O. Circle to Rabari Colony (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2962,AJL,12U-RP,R.T.O. Circle to Rameshwar Park (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2963,AJL,14D-OS,SP Ring Road Approach to Sanand Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2964,AJL,14D-SS,Sarangpur Darwaja to Sanand Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2967,AJL,14U-SO,Sanand Circle to SP Ring Road Approach (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2968,AJL,14U-SS,Sanand Circle to Sarangpur Darwaja (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2969,AJL,15D,ISKCON Cross Road to R.T.O. Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2970,AJL,15D-IA,ISKCON Cross Road to Ahmedabad Domestic Airport (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2971,AJL,15E-AS,Ahmedabad Domestic Airport to Shastrinagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2972,AJL,15E-IJ,ISKCON Cross Road to Jaimangal,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2973,AJL,15E-RS,R.T.O. Circle to Shastrinagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2974,AJL,15S-JI,Jaimangal to ISKCON Cross Road,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2975,AJL,15S-PA,Pragatinagar to Ahmedabad Domestic Airport,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2976,AJL,15S-PR,Pragatinagar to R.T.O. Circle,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2977,AJL,15U,R.T.O. Circle to ISKCON Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2978,AJL,15U-AI,Ahmedabad Domestic Airport to ISKCON Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2979,AJL,16D-NS,Nehrunagar to Sanand Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2980,AJL,16E,Nehrunagar to Jaimangal,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2981,AJL,16E-SJ,Sanand Circle to Jaimangal,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2982,AJL,16S,Jaimangal to Nehrunagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2983,AJL,16S-JS,Jaimangal to Sanand Circle,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2984,AJL,16U-SN,Sanand Circle to Nehrunagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2985,AJL,17D,Nehrunagar to South Bopal BRTS Terminus (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2986,AJL,17E,Nehrunagar to Jaimangal,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2987,AJL,17E-BJ,South Bopal BRTS Terminus to Jaimangal,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2988,AJL,17S,Jaimangal to Nehrunagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2989,AJL,17S-JB,Jaimangal to South Bopal BRTS Terminus,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2990,AJL,17U,South Bopal BRTS Terminus to Nehrunagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2991,AJL,2D-OI,SP Ring Road Approach to ISKCON Cross Road (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2992,AJL,2D-SL,SP Ring Road Approach to LD Engg. College (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2995,AJL,2U-IO,ISKCON Cross Road to SP Ring Road Approach (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2996,AJL,2U-LS,LD Engg. College to SP Ring Road Approach (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_2997,AJL,3D,Maninagar to R.T.O. Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3001,AJL,3U,R.T.O. Circle to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3003,AJL,4D-LA,LD Engg. College to Amba Township (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3004,AJL,4D-LZ,LD Engg. College to DCIS Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3006,AJL,4E-ZS,DCIS Circle to Shastrinagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3007,AJL,4S-PZ,Pragatinagar to DCIS Circle,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3009,AJL,4U-AL,Amba Township to LD Engg. College (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3010,AJL,4U-ZL,DCIS Circle to LD Engg. College (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3011,AJL,5D-NV,Hanspura Ring Road to Vasna (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3012,AJL,5E-HW,Hanspura Ring Road to Naroda S. T. Workshop,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3013,AJL,5E-VK,Vasna to Kashiram Textiles,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3014,AJL,5E-VR,Vasna to Rameshwar Park,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3015,AJL,5S-CV,Chhipa Society to Vasna,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3016,AJL,5S-RV,Rameshwar Park to Vasna,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3017,AJL,5S-WH,Naroda S. T. Workshop to Hanspura Ring Road,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3018,AJL,5U-VN,Vasna to Hanspura Ring Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3019,AJL,6D,Naroda S. T. Workshop to Narol (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3020,AJL,6E-NR,Narol to Rameshwar Park,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3021,AJL,6E-SC,Naroda S. T. Workshop to Geeta Gauri Cinema,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3022,AJL,6S-CS,Geeta Gauri Cinema to Naroda S. T. Workshop,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3023,AJL,6S-RN,Rameshwar Park to Narol,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3024,AJL,6U,Narol to Naroda S. T. Workshop (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3027,AJL,7D-NS,Narol to Sarangpur Darwaja (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3028,AJL,7D-SZ,Sarkari Litho Press Cabin to DCIS Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3030,AJL,7U-SN,Sarangpur Darwaja to Narol (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3031,AJL,7U-ZS,DCIS Circle to Sarkari Litho Press Cabin (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3032,AJL,8D-HB,Hanspura Ring Road to Bhadaj Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3033,AJL,8D-NB,Naroda Gam to Bhadaj Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3036,AJL,8E-BJ,Bhadaj Circle to Jaimangal,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3037,AJL,8E-NC,Naroda Gam to Geeta Gauri Cinema,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3038,AJL,8S-CN,Geeta Gauri Cinema to Naroda Gam,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3039,AJL,8S-JB,Jaimangal to Bhadaj Circle,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3040,AJL,8S-SN,SP Ring Road Approach to Naroda Gam,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3041,AJL,8U-BH,Bhadaj Circle to Hanspura Ring Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3042,AJL,8U-BN,Bhadaj Circle to Naroda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3043,AJL,9D-LV,LD Engg. College to Gota Vasant Nagar Township (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3044,AJL,9D-MV,Maninagar to Gota Vasant Nagar Township (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3046,AJL,9E-MJ,Maninagar to Jaimangal,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3048,AJL,9E-VJ,Gota Vasant Nagar Township to Jaimangal,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3050,AJL,9S-JL,Jaimangal to LD Engg. College,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3051,AJL,9S-JM,Jaimangal to Maninagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3052,AJL,9S-JV,Jaimangal to Gota Vasant Nagar Township,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3053,AJL,9U-VL,Gota Vasant Nagar Township to LD Engg. College (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_3054,AJL,9U-VM,Gota Vasant Nagar Township to Maninagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4340,AJL,101-C,R.T.O. Circle to R.T.O. Circle,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4341,AJL,8U-BS,Bhadaj Circle to Sarkari Litho Press Cabin (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4345,AJL,8D-SB,Sarkari Litho Press Cabin to Bhadaj Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_4918,AJL,9E-MB,Maninagar to Bhavsar Hostel,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5022,AJL,7D-SM,Memco Cross Road to Sarkari Litho Press Cabin (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5023,AJL,7D-RD,Ranip Cross Road to DCIS Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5024,AJL,7U-DR,DCIS Circle to Ranip Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5025,AJL,7U-SM,Sarkari Litho Press Cabin to Memco Cross Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5026,AJL,12D-OR,Odhav Talav to R.T.O. Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5033,AJL,101U-NR,Naroda Gam to R.T.O. Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5035,AJL,101S-RM,R.T.O. Circle to Memco Cross Road,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5050,AJL,4S-RA,Ranip Cross Road to Amba Township,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5051,AJL,4S-OL,Odhav Talav to LD Engg. College,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5052,AJL,4E-LO,LD Engg. College to Odhav Talav,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5053,AJL,9S-BG,Bhavsar Hostel to Gota Vasant Nagar Township,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5054,AJL,4D-RA,R.T.O. Circle to Amba Township (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5055,AJL,4E-AR,Amba Township to R.T.O. Circle,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5116,AJL,5E-HO,Hanspura Ring Road to Odhav Talav,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5120,AJL,4E-ARa,Amba Township to Ranip Cross Road,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5122,AJL,4E-DRa,DCIS Circle to Ranip Cross Road,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5137,AJL,4S-PA,Pragatinagar to Amba Township,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5142,AJL,4U-RL,R.T.O. Circle to LD Engg. College (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5147,AJL,4U-ZR,DCIS Circle to R.T.O. Circle (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5176,AJL,12U-RO,R.T.O. Circle to Odhav Talav (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5211,AJL,3E-MO,Maninagar to SP Ring Road Approach,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5213,AJL,8E-NO,Naroda Gam to Odhav Talav,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5215,AJL,8S-ON,Odhav Talav to Naroda Gam,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5281,AJL,7E-NR,Narol to Rameshwar Park,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5282,AJL,7E-SA,Sarangpur Darwaja to Ajit Mill Char Rasta,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5283,AJL,7S-RN,Rameshwar Park to Narol,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5287,AJL,7S-AS,Ajit Mill Char Rasta to Sarangpur Darwaja,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5348,AJL,9D-ML,Maninagar to LD Engg. College (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5349,AJL,9D-SM,SP Ring Road Approach to Maninagar (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5350,AJL,9E-LO,LD Engg. College to Odhav Talav,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5353,AJL,9S-OS,Odhav Talav to LD Engg. College,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5357,AJL,4E-AS,Amba Township to Shastrinagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5364,AJL,9E-MO,Maninagar to Odhav Talav,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5378,AJL,8D-NG,Naroda Gam to Gurudwara (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5380,AJL,8U-GN,Gurudwara to Naroda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5381,AJL,8U-PN,Pragatinagar to Naroda Gam (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5412,AJL,8E-HO,Hanspura Ring Road to Odhav Talav,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5414,AJL,4E-LK,LD Engg. College to Kashiram Textiles,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5415,AJL,4S-CL,Chhipa Society to LD Engg. College,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5425,AJL,101-C-PR,Pragatinagar to R.T.O. Circle,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5426,AJL,101-C-RS,R.T.O. Circle to Shastrinagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5429,AJL,4D-NZ,Nehrunagar to DCIS Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5431,AJL,4D-CZ,Chhipa Society to DCIS Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5435,AJL,2E-IK,ISKCON Cross Road to Kashiram Textiles,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5436,AJL,2S-CI,Chhipa Society to ISKCON Cross Road,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5440,AJL,12S-PR,Pragatinagar to R.T.O. Circle,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5441,AJL,12E-RS,R.T.O. Circle to Shastrinagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5442,AJL,5S-OV,Odhav Talav to Vasna,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5444,AJL,14D-CS,Chhipa Society to Sanand Circle (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5445,AJL,14U-SK,Sanand Circle to Kashiram Textiles (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5449,AJL,16U-CN,Chhipa Society to Nehrunagar (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5450,AJL,3S-SM,SP Ring Road Approach to Maninagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5452,AJL,16U-SK,Sanand Circle to Kashiram Textiles (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5459,AJL,5U-NH,Narol to Hanspura Ring Road (UP),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5460,AJL,5D-HN,Hanspura Ring Road to Narol (DOWN),3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5463,AJL,1S-CM,Chhipa Society to Maninagar,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+AMC_5464,AJL,1E-MK,Maninagar to Kashiram Textiles,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5575,GTSL,Chandkheda To Pathikashram,Chandkheda To Pathikashram,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5545,GTSL,Chiloda To Pathikashram,Chiloda To Pathikashram,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5568,GTSL,Kalol To Pathikashram Via Dhamasana,Kalol To Pathikashram Via Dhamasana,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5855,GTSL,Kalol To Pathikashram Via Sardhav,Kalol To Pathikashram Via Sardhav,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5853,GTSL,Mansa To Pathikashram,Mansa To Pathikashram,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5573,GTSL,Pathikashram To Chandkheda,Pathikashram To Chandkheda,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5544,GTSL,Pathikashram To Chiloda,Pathikashram To Chiloda,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5558,GTSL,Pathikashram To Kalol Via Dhamasana,Pathikashram To Kalol Via Dhamasana,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5854,GTSL,Pathikashram To Kalol Via Sardhav,Pathikashram To Kalol Via Sardhav,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5852,GTSL,Pathikashram To Mansa,Pathikashram To Mansa,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5549,GTSL,Pathikashram To Pethapur,Pathikashram To Pethapur,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5856,GTSL,Pathikashram To Pundhara,Pathikashram To Pundhara,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5542,GTSL,Pathikashram To Unava,Pathikashram To Unava,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5550,GTSL,Pethapur To Pathikashram,Pethapur To Pathikashram,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5857,GTSL,Pundhara To Pathikashram,Pundhara To Pathikashram,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip
+GTSL_5543,GTSL,Unava To Pathikashram,Unava To Pathikashram,3,REAL_PUBLIC,https://github.com/croyla/amd-gtfs/raw/main/gtfs.zip

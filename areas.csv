@@ -1,0 +1,25 @@
+area_id,name,lat,lon,demand_weight,data_origin
+A01,Bopal,23.03,72.47,0.67,APPROXIMATE centroid; SYNTHETIC demand_weight
+A02,South Bopal,23.016,72.47,0.94,APPROXIMATE centroid; SYNTHETIC demand_weight
+A03,Ghuma,23.032,72.447,0.62,APPROXIMATE centroid; SYNTHETIC demand_weight
+A04,Shela,23.008,72.447,0.77,APPROXIMATE centroid; SYNTHETIC demand_weight
+A05,Thaltej,23.052,72.51,1.0,APPROXIMATE centroid; SYNTHETIC demand_weight
+A06,Science City,23.075,72.505,0.62,APPROXIMATE centroid; SYNTHETIC demand_weight
+A07,Gota,23.095,72.53,0.76,APPROXIMATE centroid; SYNTHETIC demand_weight
+A08,Chandkheda,23.105,72.59,1.12,APPROXIMATE centroid; SYNTHETIC demand_weight
+A09,Tragad,23.12,72.56,1.04,APPROXIMATE centroid; SYNTHETIC demand_weight
+A10,Vastrapur,23.038,72.53,0.78,APPROXIMATE centroid; SYNTHETIC demand_weight
+A11,Satellite,23.025,72.515,1.07,APPROXIMATE centroid; SYNTHETIC demand_weight
+A12,Prahladnagar,23.012,72.51,1.25,APPROXIMATE centroid; SYNTHETIC demand_weight
+A13,Vejalpur,23.005,72.525,0.61,APPROXIMATE centroid; SYNTHETIC demand_weight
+A14,Juhapura,22.998,72.53,1.24,APPROXIMATE centroid; SYNTHETIC demand_weight
+A15,Sarkhej,22.985,72.5,1.16,APPROXIMATE centroid; SYNTHETIC demand_weight
+A16,Maninagar,22.995,72.61,0.87,APPROXIMATE centroid; SYNTHETIC demand_weight
+A17,Naroda,23.07,72.66,0.72,APPROXIMATE centroid; SYNTHETIC demand_weight
+A18,Nikol,23.04,72.67,1.37,APPROXIMATE centroid; SYNTHETIC demand_weight
+A19,Odhav,23.03,72.66,0.87,APPROXIMATE centroid; SYNTHETIC demand_weight
+A20,Ramol,23.0,72.65,0.67,APPROXIMATE centroid; SYNTHETIC demand_weight
+A21,Hathijan,22.975,72.655,0.68,APPROXIMATE centroid; SYNTHETIC demand_weight
+A22,Navrangpura,23.035,72.56,1.28,APPROXIMATE centroid; SYNTHETIC demand_weight
+A23,Vatva,22.96,72.63,1.08,APPROXIMATE centroid; SYNTHETIC demand_weight
+A24,Ranip,23.07,72.57,1.25,APPROXIMATE centroid; SYNTHETIC demand_weight

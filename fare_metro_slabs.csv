@@ -1,0 +1,10 @@
+max_km,amount,source_note,data_origin,limitations
+2,5,GMRC minimum fare,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values
+4,10,GMRC slab 2,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values
+6,15,GMRC slab 3,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values
+10,20,GMRC slab 4,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values
+14,25,GMRC slab 5,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values
+18,30,GMRC slab 6,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values
+22,35,GMRC slab 7,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values
+30,40,GMRC slab 8,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values
+99,50,GMRC maximum fare,APPROXIMATE,Slabs transcribed from GMRC fare chart; verify current values

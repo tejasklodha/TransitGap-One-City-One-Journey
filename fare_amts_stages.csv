@@ -1,0 +1,8 @@
+max_km,amount,source_note,data_origin
+2,5,AMTS minimum fare (transcribed),APPROXIMATE
+5,7,AMTS stage 2 (transcribed),APPROXIMATE
+10,10,AMTS stage 3 (transcribed),APPROXIMATE
+15,12,AMTS stage 4 (transcribed),APPROXIMATE
+20,15,AMTS stage 5 (transcribed),APPROXIMATE
+30,20,AMTS stage 6 (transcribed),APPROXIMATE
+99,25,AMTS maximum fare (transcribed),APPROXIMATE
